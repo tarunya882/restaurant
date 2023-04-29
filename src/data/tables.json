@@ -1,0 +1,51 @@
+[
+  {
+    "id": 0,
+    "tableName": "Table1",
+    "totalItems": 0,
+    "totalPrice": 0,
+    "items": []
+  },
+  {
+    "id": 1,
+    "tableName": "Table2",
+    "totalItems": 0,
+    "totalPrice": 0,
+    "items": []
+  },
+  {
+    "id": 2,
+    "tableName": "Table3",
+    "totalItems": 0,
+    "totalPrice": 0,
+    "items": []
+  },
+  {
+    "id": 3,
+    "tableName": "Table4",
+    "totalItems": 0,
+    "totalPrice": 0,
+    "items": []
+  },
+  {
+    "id": 4,
+    "tableName": "Table5 ",
+    "totalItems": 0,
+    "totalPrice": 0,
+    "items": []
+  },
+  {
+    "id": 5,
+    "tableName": "Table6",
+    "totalItems": 0,
+    "totalPrice": 0,
+    "items": []
+  },
+  {
+    "id": 6,
+    "tableName": "Table7",
+    "totalItems": 0,
+    "totalPrice": 0,
+    "items": []
+  }
+]
